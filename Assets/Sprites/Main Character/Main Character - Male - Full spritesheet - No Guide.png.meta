@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -115,7 +115,2611 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 608
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed29c17a5da9edf4fa3ff8185e9a5d13
+      internalID: -1013991011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 608
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6626663b1fb2c3043a61fc8a5913a22d
+      internalID: -1754633691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 608
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d585219007b7f41959f2a5609574e2
+      internalID: -484175390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 608
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39debbd0b5b9c3645b2ddcd90af9b451
+      internalID: -592627883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 608
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ba12f207fa27f44b71225c616ece68
+      internalID: 644260307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 608
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3abd347229a86c40beb03681849e398
+      internalID: 2117142018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 576
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503f20743cd5a33489d26f3949ef17ed
+      internalID: 1738365454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 576
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2c4c73754f94043959fe155ad7f5ce
+      internalID: -1582978217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 576
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1198b39f2f8304ca6aacc448405441
+      internalID: -1148394661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 576
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738ce868ceccdd84080b428bbbef048d
+      internalID: -1977270524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 576
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a745f669623a047b484a75eb676bc4
+      internalID: -1120731537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 576
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad29a43902122e48a3354c0889155be
+      internalID: 746161358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 576
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14a3634c0b9604479ce77839b72a76b
+      internalID: 1075616409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 576
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcde5d360f38b5438efa1c014fecfc7
+      internalID: 1484645423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 576
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f9995aed8877d4a9ae57ff3857aa05
+      internalID: 1522720107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 576
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8c2c6e28415a46b2fe8b313611609
+      internalID: -220093484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 576
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e5642fc249b3144920dd0520159ecd
+      internalID: 203222493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_17
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 576
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b5b39e79ceddd44937838ab843d20e
+      internalID: 81406096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 544
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9614de02975c0c246bb2685d5d2fa56e
+      internalID: -2053924777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 544
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc41503dea64b94cb1ee61f52559a27
+      internalID: 1092400060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 544
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0e64fc8c525884b9d82d4488cb0d54
+      internalID: -1981490631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 544
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4189226b47e134486c0d485c2d85d3
+      internalID: -1397198271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 544
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f10402bf1afdad4a9bb7fab090c195a
+      internalID: -1325259882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 544
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fea886947380a44922c111153653ee
+      internalID: -829535509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 512
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6633694d5e6ba4fa4c2fadfb8a2d78
+      internalID: -1126814883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 512
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2623a2525b4bc6045b44569e8869769d
+      internalID: 244891702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 514
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aeb273c90998a4f81c1681a116f298
+      internalID: 1083324894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 513
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d1a75bd9073784b9d8fde0ba2bb355
+      internalID: 1308055419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 512
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046f7f7f01aa04344aeaf4ae856dc6ef
+      internalID: -1783075204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 512
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379eb541480f00a418511634054ab253
+      internalID: 785944942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 514
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9a07348705e0240a61905e0cd6553b
+      internalID: -1444254146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 513
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa523d05c1025e642a993b6d278f2dbc
+      internalID: 963840326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 480
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79e1bc5f88c69a40bb115970271302d
+      internalID: -276837887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_33
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 486
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87753a68ff7ba02439db802d8b40ab7f
+      internalID: 2098170160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 485
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105f2719d3964d445bd92ea9f672986a
+      internalID: -1053126034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 483
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aefe4e0a6b78f446a9c9c3da1fb0062
+      internalID: 313234563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 480
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc773a87b5b3d6d4f87594f1e49fc96b
+      internalID: 1432521285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 480
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c094d39abe32b43a2bcabc0d9e4596
+      internalID: 1850427655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 452
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73259d48f89fb745b80cbc657e7c4b7
+      internalID: -1880279426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 453
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f500d1f01715c441b96baae023d1b96
+      internalID: 1774932150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 457
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44500680617a1842aba10f9895bc3bb
+      internalID: 1542732436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 458
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48da6fc89a6bd95408a0b92f3bc89dd4
+      internalID: -1336513514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 451
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f160c51e8ea444b4591d508868de3649
+      internalID: 861958692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 448
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08da627ad14c4e54284af45965e43ea7
+      internalID: -2117075607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 448
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2ab7f222d6010419319f81c522ec77
+      internalID: -686290393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 421
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be97cbb8c03f73c4195deac3117f7880
+      internalID: -1096431857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_46
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 421
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6561aaff09c4e15438d51c745a5772d8
+      internalID: -1162159276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_47
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 421
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82356dfa0e2737499c61eefd5c1d416
+      internalID: -1319788468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_48
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 421
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2ae1f12e24fb54f8ee712437275f40
+      internalID: -914562570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 389
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fbe358815ddb84293ea2d4daee7882
+      internalID: -2123129124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_50
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 389
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043f905f3ea81314b9ec2753ed000103
+      internalID: 1447250034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 389
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec9696caa332364da24d3a85b0ca97b
+      internalID: -197543391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_52
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 385
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef3f82bd3f619e4baa7970faf3a7d5b
+      internalID: 195851617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_53
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 385
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9729f994740704f8bd4a771ab5f515
+      internalID: -1292794404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_54
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 384
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d03ea99313905d47b947749c952687c
+      internalID: 2137553356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_55
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 357
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e37f6576dad6154cb04ff8dd4aafa3d
+      internalID: -896956192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_56
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 357
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9477744fd44434c84e1b66f0b9fa8d
+      internalID: -827499063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_57
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 359
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11822606f92f4f545a6233c3104a017c
+      internalID: 716911346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_58
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 360
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccfbcee7f2075e4cb2d11798157538d
+      internalID: -1157536244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 320
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3b342390a08648a5b6d3557fa253a
+      internalID: 591461360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 320
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea92784a410083449c7c521219a162e
+      internalID: 805561016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 320
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097c9f2c672dbb449b82864c832b7a0e
+      internalID: 2081938131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 320
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28762d488cc48264dbfac431c34ba9ae
+      internalID: -1799100905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_63
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 320
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7c5565b3f6baa41ba0895abf47abff
+      internalID: -1339660407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_64
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 320
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35418cd8c8e5b542b36114c4bddcbe8
+      internalID: -1075594735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1e31523d3fb545b26d92546fb567e
+      internalID: -1683998928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 288
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b56e08ed1f1954cb5465990039c06c
+      internalID: -1155986948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_67
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 288
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1dc5fad0c95d24795d8e4933bd1416
+      internalID: -86174926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_68
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 288
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1789a8954d86a024b8a9c4bac7de8f72
+      internalID: -1555170502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_69
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 288
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3191f9f1e52bd847b09b6c782b83b76
+      internalID: -1278143413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_70
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 288
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6c7caa5beef5643bf567bb61bc2297
+      internalID: 219201253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4339aca0a5e88469c70962c050cd9b
+      internalID: -1271982257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_72
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 256
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327326cc4f603444eba447034fa0eba5
+      internalID: 1695693665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_73
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 258
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f988555d5aa711b46a2aae4baf2ceb4b
+      internalID: 783688898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 257
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af3c4212c12111498cfc77a1cf03b9d
+      internalID: -152207474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_75
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 256
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dcb04de2419ae469082c4f7831d5f8
+      internalID: 1669446079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_76
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 256
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c9115b9c718449b533c73b9e9a5bc
+      internalID: -545469468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_77
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 258
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d9b7ce8f66e054db298ca0a5613bd5
+      internalID: 1561016795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_78
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 257
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774da160b3665fc40ae69893a28340d2
+      internalID: 248848442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_79
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75455b9fc602304ca3d7decd83a428e
+      internalID: 1023486722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_80
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 230
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59d8a0ac64e0274c865bc8c83c4695b
+      internalID: -373808156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_81
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 229
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abcfa392178b914eb6d1b22182f3854
+      internalID: -1159184088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_82
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 227
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce02bfe787671b40b3bbc142eb15afc
+      internalID: 438730920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 224
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e7c7acae8b25342aca0fb6e93f81f3
+      internalID: 674715980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_84
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 224
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2258214bf51f97949bf14e1323d3b8ab
+      internalID: -519344502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_85
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 196
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ddd334f3329f74998ca4fe3a83cf29
+      internalID: 1663291155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_86
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 197
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4645d3fe221eaec448c67ff2bd960a71
+      internalID: 1168278313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 201
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2508f5112cb8d64c86e9375433ca44a
+      internalID: 1838073706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_88
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 202
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873e995cc522fcc438deec42e0df148e
+      internalID: -741276411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_89
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 195
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febea660542a35c4aa039a2cb7d9ed0e
+      internalID: 575952975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_90
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 192
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb6e01458806554bb8558e43482160a
+      internalID: -1777520710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_91
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 192
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558475fbffb067446b526cf73f1aacad
+      internalID: 2029032595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 160
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57faa3eab6f1b94458d8fb008a760466
+      internalID: 1606476995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_93
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 160
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1025cf784fbd5464fa94e89597c58684
+      internalID: -1054403077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_94
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 160
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92e95c79383e4c418cce46ee9c555bf
+      internalID: 412148185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_95
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 160
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c0fc07285cdc345bbd213ee0aea68b
+      internalID: 1927376118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_96
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 160
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608ac7e42aac99640af568528feca592
+      internalID: -342750380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_97
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 128
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f40c045d8ee88a4ab880cf741f529bc
+      internalID: -1663734544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_98
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 131
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f7e3c0865610d4a9750ae03aee7efb
+      internalID: -1314110797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_99
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b96e4e8d6cf2e4aa3857db378c576e
+      internalID: -860137237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_100
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 133
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381b76fbbd88bbc43b564d689d152ca7
+      internalID: 136141354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_101
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f15a78d91d6164fb56653685fac72c
+      internalID: -275926517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_102
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 96
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df5e9fdda75e943a8b8a6d1d774cdb
+      internalID: -1062612810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_103
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c1ecd0e6fbcff4ba771591144cb76d
+      internalID: 1140460023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_104
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 96
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea174d623d9b3c45bcf1ba5f56a5725
+      internalID: 94343258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_105
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46ce9cda9e447548847787028c602c9
+      internalID: 1905924786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_106
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578720d124c148d4d8f50a3a2d87186c
+      internalID: -1187676928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_107
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0112c0f6c467267449d504e2bb1953ab
+      internalID: 1396447907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_108
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596bbb8876ddfbf4db29a451d5887ee0
+      internalID: 297409466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_109
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 64
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec4ebadae965ed4796285cd753fa89b
+      internalID: -1724905826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_110
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 64
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abd0a5e77795b49a647c01b8ed5a49
+      internalID: -109786845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_111
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688b68ea9dbe0cc42b1cc62f2bd70a76
+      internalID: 378188151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48263e9da53e7584883cd673715de0bc
+      internalID: 1951434513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_113
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 32
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d2fcd82d1d868448525e8727e474c8
+      internalID: -551791201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_114
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 32
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0538851d7e18a946bdd71ae000ebc34
+      internalID: 2024264991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_115
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 32
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cce0739b6517d4e921865854eeea92
+      internalID: 216916135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_116
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53571e23c9ca3af47a48e5299c5c7d4f
+      internalID: 550069727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_117
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2318b91a8ca5eeb47bce13af7f947c06
+      internalID: -145999746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_118
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72ac57ac24151a498305719ae353e38
+      internalID: 115335410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_119
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a940af64ee11044abb2593a2105d3e3
+      internalID: -1109314615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449c6764554ad69428f58d015710a9dd
+      internalID: 1764081686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc022d5dda8519246a28661d1d367740
+      internalID: 64043790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91725a02339c27b49ba75d3a569df338
+      internalID: -221856002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Character - Male - Full spritesheet - No Guide_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9076079fd7f8e7544b1e1755c57fb588
+      internalID: -750854672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -126,7 +2730,131 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Main Character - Male - Full spritesheet - No Guide_75: 1669446079
+      Main Character - Male - Full spritesheet - No Guide_37: 1850427655
+      Main Character - Male - Full spritesheet - No Guide_94: 412148185
+      Main Character - Male - Full spritesheet - No Guide_38: -1880279426
+      Main Character - Male - Full spritesheet - No Guide_40: 1542732436
+      Main Character - Male - Full spritesheet - No Guide_88: -741276411
+      Main Character - Male - Full spritesheet - No Guide_115: 216916135
+      Main Character - Male - Full spritesheet - No Guide_36: 1432521285
+      Main Character - Male - Full spritesheet - No Guide_1: -1754633691
+      Main Character - Male - Full spritesheet - No Guide_91: 2029032595
+      Main Character - Male - Full spritesheet - No Guide_123: -750854672
+      Main Character - Male - Full spritesheet - No Guide_78: 248848442
+      Main Character - Male - Full spritesheet - No Guide_69: -1278143413
+      Main Character - Male - Full spritesheet - No Guide_24: -1126814883
+      Main Character - Male - Full spritesheet - No Guide_39: 1774932150
+      Main Character - Male - Full spritesheet - No Guide_122: -221856002
+      Main Character - Male - Full spritesheet - No Guide_60: 805561016
+      Main Character - Male - Full spritesheet - No Guide_65: -1683998928
+      Main Character - Male - Full spritesheet - No Guide_96: -342750380
+      Main Character - Male - Full spritesheet - No Guide_89: 575952975
+      Main Character - Male - Full spritesheet - No Guide_34: -1053126034
+      Main Character - Male - Full spritesheet - No Guide_57: 716911346
+      Main Character - Male - Full spritesheet - No Guide_76: -545469468
+      Main Character - Male - Full spritesheet - No Guide_121: 64043790
+      Main Character - Male - Full spritesheet - No Guide_3: -592627883
+      Main Character - Male - Full spritesheet - No Guide_86: 1168278313
+      Main Character - Male - Full spritesheet - No Guide_61: 2081938131
+      Main Character - Male - Full spritesheet - No Guide_108: 297409466
+      Main Character - Male - Full spritesheet - No Guide_82: 438730920
+      Main Character - Male - Full spritesheet - No Guide_102: -1062612810
+      Main Character - Male - Full spritesheet - No Guide_27: 1308055419
+      Main Character - Male - Full spritesheet - No Guide_95: 1927376118
+      Main Character - Male - Full spritesheet - No Guide_73: 783688898
+      Main Character - Male - Full spritesheet - No Guide_77: 1561016795
+      Main Character - Male - Full spritesheet - No Guide_59: 591461360
+      Main Character - Male - Full spritesheet - No Guide_106: -1187676928
+      Main Character - Male - Full spritesheet - No Guide_98: -1314110797
+      Main Character - Male - Full spritesheet - No Guide_109: -1724905826
+      Main Character - Male - Full spritesheet - No Guide_114: 2024264991
+      Main Character - Male - Full spritesheet - No Guide_25: 244891702
+      Main Character - Male - Full spritesheet - No Guide_85: 1663291155
+      Main Character - Male - Full spritesheet - No Guide_16: 203222493
+      Main Character - Male - Full spritesheet - No Guide_90: -1777520710
+      Main Character - Male - Full spritesheet - No Guide_19: 1092400060
+      Main Character - Male - Full spritesheet - No Guide_13: 1484645423
+      Main Character - Male - Full spritesheet - No Guide_55: -896956192
+      Main Character - Male - Full spritesheet - No Guide_46: -1162159276
+      Main Character - Male - Full spritesheet - No Guide_2: -484175390
+      Main Character - Male - Full spritesheet - No Guide_117: -145999746
+      Main Character - Male - Full spritesheet - No Guide_10: -1120731537
+      Main Character - Male - Full spritesheet - No Guide_8: -1148394661
+      Main Character - Male - Full spritesheet - No Guide_43: -2117075607
+      Main Character - Male - Full spritesheet - No Guide_48: -914562570
+      Main Character - Male - Full spritesheet - No Guide_119: -1109314615
+      Main Character - Male - Full spritesheet - No Guide_70: 219201253
+      Main Character - Male - Full spritesheet - No Guide_79: 1023486722
+      Main Character - Male - Full spritesheet - No Guide_20: -1981490631
+      Main Character - Male - Full spritesheet - No Guide_56: -827499063
+      Main Character - Male - Full spritesheet - No Guide_103: 1140460023
+      Main Character - Male - Full spritesheet - No Guide_17: 81406096
+      Main Character - Male - Full spritesheet - No Guide_100: 136141354
+      Main Character - Male - Full spritesheet - No Guide_6: 1738365454
+      Main Character - Male - Full spritesheet - No Guide_7: -1582978217
+      Main Character - Male - Full spritesheet - No Guide_26: 1083324894
+      Main Character - Male - Full spritesheet - No Guide_49: -2123129124
+      Main Character - Male - Full spritesheet - No Guide_58: -1157536244
+      Main Character - Male - Full spritesheet - No Guide_110: -109786845
+      Main Character - Male - Full spritesheet - No Guide_51: -197543391
+      Main Character - Male - Full spritesheet - No Guide_15: -220093484
+      Main Character - Male - Full spritesheet - No Guide_30: -1444254146
+      Main Character - Male - Full spritesheet - No Guide_97: -1663734544
+      Main Character - Male - Full spritesheet - No Guide_45: -1096431857
+      Main Character - Male - Full spritesheet - No Guide_63: -1339660407
+      Main Character - Male - Full spritesheet - No Guide_74: -152207474
+      Main Character - Male - Full spritesheet - No Guide_116: 550069727
+      Main Character - Male - Full spritesheet - No Guide_21: -1397198271
+      Main Character - Male - Full spritesheet - No Guide_92: 1606476995
+      Main Character - Male - Full spritesheet - No Guide_14: 1522720107
+      Main Character - Male - Full spritesheet - No Guide_44: -686290393
+      Main Character - Male - Full spritesheet - No Guide_53: -1292794404
+      Main Character - Male - Full spritesheet - No Guide_68: -1555170502
+      Main Character - Male - Full spritesheet - No Guide_62: -1799100905
+      Main Character - Male - Full spritesheet - No Guide_9: -1977270524
+      Main Character - Male - Full spritesheet - No Guide_35: 313234563
+      Main Character - Male - Full spritesheet - No Guide_0: -1013991011
+      Main Character - Male - Full spritesheet - No Guide_118: 115335410
+      Main Character - Male - Full spritesheet - No Guide_120: 1764081686
+      Main Character - Male - Full spritesheet - No Guide_52: 195851617
+      Main Character - Male - Full spritesheet - No Guide_54: 2137553356
+      Main Character - Male - Full spritesheet - No Guide_101: -275926517
+      Main Character - Male - Full spritesheet - No Guide_66: -1155986948
+      Main Character - Male - Full spritesheet - No Guide_41: -1336513514
+      Main Character - Male - Full spritesheet - No Guide_64: -1075594735
+      Main Character - Male - Full spritesheet - No Guide_23: -829535509
+      Main Character - Male - Full spritesheet - No Guide_107: 1396447907
+      Main Character - Male - Full spritesheet - No Guide_67: -86174926
+      Main Character - Male - Full spritesheet - No Guide_5: 2117142018
+      Main Character - Male - Full spritesheet - No Guide_28: -1783075204
+      Main Character - Male - Full spritesheet - No Guide_22: -1325259882
+      Main Character - Male - Full spritesheet - No Guide_32: -276837887
+      Main Character - Male - Full spritesheet - No Guide_80: -373808156
+      Main Character - Male - Full spritesheet - No Guide_18: -2053924777
+      Main Character - Male - Full spritesheet - No Guide_31: 963840326
+      Main Character - Male - Full spritesheet - No Guide_47: -1319788468
+      Main Character - Male - Full spritesheet - No Guide_4: 644260307
+      Main Character - Male - Full spritesheet - No Guide_112: 1951434513
+      Main Character - Male - Full spritesheet - No Guide_42: 861958692
+      Main Character - Male - Full spritesheet - No Guide_71: -1271982257
+      Main Character - Male - Full spritesheet - No Guide_81: -1159184088
+      Main Character - Male - Full spritesheet - No Guide_11: 746161358
+      Main Character - Male - Full spritesheet - No Guide_99: -860137237
+      Main Character - Male - Full spritesheet - No Guide_29: 785944942
+      Main Character - Male - Full spritesheet - No Guide_104: 94343258
+      Main Character - Male - Full spritesheet - No Guide_72: 1695693665
+      Main Character - Male - Full spritesheet - No Guide_83: 674715980
+      Main Character - Male - Full spritesheet - No Guide_105: 1905924786
+      Main Character - Male - Full spritesheet - No Guide_93: -1054403077
+      Main Character - Male - Full spritesheet - No Guide_33: 2098170160
+      Main Character - Male - Full spritesheet - No Guide_111: 378188151
+      Main Character - Male - Full spritesheet - No Guide_12: 1075616409
+      Main Character - Male - Full spritesheet - No Guide_50: 1447250034
+      Main Character - Male - Full spritesheet - No Guide_113: -551791201
+      Main Character - Male - Full spritesheet - No Guide_84: -519344502
+      Main Character - Male - Full spritesheet - No Guide_87: 1838073706
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
