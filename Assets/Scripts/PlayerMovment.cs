@@ -27,10 +27,10 @@ public class PlayerMovment : MonoBehaviour
        horizontalInput = Input.GetAxis("Horizontal");
 
         //Flip player when moving left-right
-        if (horizontalInput < 0.01f)
-            transform.localScale = Vector3.one;
-        else if (horizontalInput > -0.01f)
+        if (horizontalInput > 0.01f)
             transform.localScale = new Vector3(-1, 1, 1);
+        else if (horizontalInput < - 0.01f)
+            transform.localScale = Vector3.one; 
 
         //Set animator parameters
         anim.SetBool("run", horizontalInput != 0);
