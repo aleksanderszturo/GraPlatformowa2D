@@ -35,7 +35,18 @@ public class Health : MonoBehaviour
             if (!dead)
             {
                 anim.SetTrigger("die");
-                GetComponent<PlayerMovment>().enabled = false;
+
+                //Player
+                if(GetComponent<PlayerMovment>() != null)
+                    GetComponent<PlayerMovment>().enabled = false;
+
+                //Enemy
+                if(GetComponentInParent<EnemyPatrol>() != null)
+                    GetComponentInParent<EnemyPatrol>().enabled = false;
+
+                if(GetComponent<Melee>() != null)
+                GetComponent<Melee>().enabled = false;
+
                 dead = true;
             }
         }
