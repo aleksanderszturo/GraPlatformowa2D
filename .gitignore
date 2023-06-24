@@ -70,3 +70,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Sprites/Bringer Of Death/Contact 2.txt.meta
+Assets/Sprites/Bringer Of Death/Contact.txt 2.meta
+Assets/Sprites/Bringer Of Death/Demo 2.unity.meta
+Assets/Sprites/Bringer Of Death/Demo.unity 2.meta
+Assets/Sprites/Bringer Of Death/License 2.txt.meta
+Assets/Sprites/Bringer Of Death/License.txt 2.meta
+Assets/Sprites/Bringer Of Death/Contact.txt 2.meta
+Assets/Sprites/Bringer Of Death/Demo.unity 2.meta
+Assets/Sprites/Bringer Of Death/License.txt 2.meta
+*.meta
