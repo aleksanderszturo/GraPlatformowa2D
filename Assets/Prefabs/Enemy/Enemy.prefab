@@ -119,7 +119,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.37292486, y: -0.16483158}
@@ -180,14 +180,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 4929629462997996611}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 33541fa36008e4f24979f9a9e21a9947, type: 3}
+  m_Script: {fileID: 11500000, guid: 020c3409f7b66374aaa8f93185f3ae51, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackCooldown: 1.5
-  range: 2.5
-  colliderDistance: -0.16
-  damage: 2
-  boxCollider: {fileID: 4929629462997996635}
-  playerLayer:
-    serializedVersion: 2
-    m_Bits: 256
+  movementDistance: 0
+  speed: 0
+  damage: 0
