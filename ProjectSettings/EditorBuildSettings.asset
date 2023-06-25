@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Sprites/Masalimov Ilnur/Pixet Robot/Scenes/DemoScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Levels/StartGame.unity
+    guid: 719a43b82e5384fc8a69ee51fe01c0fb
+  - enabled: 1
+    path: Assets/Levels/Main Level.unity
+    guid: ea551dec7917b4a4ebdc1d322889ae07
   m_configObjects: {}

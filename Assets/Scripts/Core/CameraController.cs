@@ -15,4 +15,13 @@ public class CameraController : MonoBehaviour
     {
         currentPosx = _newRoom.position.x;
     }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("LastRoomTrigger"))
+        {
+            MoveToNewRoom(other.transform);
+        }
+        
+    }
 }
